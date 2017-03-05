@@ -22,3 +22,5 @@
 * `tournament_test.py` - contains unit tests that checks the functions written in 'tournament.py';
 * `tournament.sql` - contains the database schema for the 'tournament' project.
 
+## Authors
+ **Iurie Popovici**  - *Initial work* - 
