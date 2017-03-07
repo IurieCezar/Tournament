@@ -1,4 +1,4 @@
-# tournament
+# Tournament
 
 ## Running the program
 * To successfully run the program the machine needs to have PostgreSQL and Python 2.7 installed. Next the user has to create the database, tables and views(from tournament.sql) by typing the folowing commands in terminal:
